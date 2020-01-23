@@ -1,0 +1,11 @@
+.tooltip-content{
+	background-color: black;
+	color:white;
+    position: fixed;
+}
+.content{
+position: absolute;
+}
+.icon {
+	position: fixed;
+}
